@@ -1,0 +1,15 @@
+{
+  "name": "rei_bot",
+  "version": "1.0.0",
+  "main": "adowwz.js",
+  "scripts": {
+    "start": "node adowwz.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
